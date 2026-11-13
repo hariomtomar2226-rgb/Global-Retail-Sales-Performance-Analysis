@@ -66,23 +66,6 @@ Based on the analysis, the findings highlight several areas for management atten
 - Reassess market prioritization based on profitability rather than sales volume alone.
 - Monitor regional and product-category profit margins to identify underperforming areas.
 
-## 📁 Repository Structure
-
-```text
-Global-Retail-Sales-Profit-Analysis/
-│
-├── 📂 Dashboard/
-│   └── Excel_Dashboard.xlsx
-│
-├── 📂 Screenshots/
-│   └── Dashboard_Preview.png
-│
-├── 📂 Data/
-│   └── Dataset_Source.txt
-│
-└── README.md
-```
-
 
 ## 🎓 Skills Demonstrated
 
