@@ -1,75 +1,105 @@
-# Global Retail Sales & Profit Analysis | Excel
+# 📊 Global Retail Sales & Profit Analysis
 
-## Project Overview
+An interactive Excel dashboard project focused on analyzing global retail sales, profitability, regional performance, and identifying loss-making markets to support data-driven business decisions.
 
-This project focuses on analyzing global retail sales and profitability using Microsoft Excel and Power Query. The objective was to evaluate business performance across different regions, countries, and product categories, identify profitability issues, and uncover opportunities for improvement through data-driven analysis.
+## 📌 Project Overview
 
-Working with **51,000+ retail sales records**, I cleaned and transformed the data, performed exploratory analysis, developed interactive dashboards, and translated the findings into actionable business recommendations.
+This project involves analyzing **51,000+ retail sales records** to understand business performance across different countries, regions, and product categories.
 
-## Tools & Technologies
+Using Microsoft Excel and Power Query, I cleaned and transformed the raw dataset, performed exploratory analysis, and developed interactive dashboards to evaluate sales trends, profitability, and areas requiring business attention.
+
+The objective was not just to report sales figures, but to identify profitability gaps and translate analytical findings into actionable business insights.
+
+## 🎯 Business Objectives
+
+- Analyze overall sales and profit performance.
+- Evaluate regional and country-level sales distribution.
+- Identify loss-making countries and understand their impact on overall profitability.
+- Compare profit margins across regions and product categories.
+- Identify areas requiring pricing and operational improvements.
+- Support better market prioritization through data-driven insights.
+
+## 🛠️ Tools & Technologies
 
 - **Microsoft Excel** – Data analysis, formulas, Pivot Tables, KPI calculations, and dashboard development.
 - **Power Query** – Data cleaning, transformation, and preparation.
-- **Pivot Tables & Pivot Charts** – Aggregation and analysis of sales and profitability.
-- **Conditional Formatting** – Highlighting performance patterns and loss-making areas.
+- **Pivot Tables & Charts** – Summarizing and analyzing business performance.
+- **Conditional Formatting** – Highlighting profitability patterns and performance gaps.
+- **Excel Formulas** – Calculations and analytical metrics.
 
-## Business Objectives
+## 🔄 Project Workflow
 
-The analysis was designed to answer key business questions:
+1. **Data Preparation:** Imported and inspected the raw retail dataset.
+2. **Data Cleaning:** Used Power Query to clean and transform the data.
+3. **Exploratory Data Analysis:** Examined sales, profit, and profitability patterns across different business dimensions.
+4. **KPI Development:** Created key performance indicators to measure business performance.
+5. **Dashboard Development:** Built interactive Excel dashboards using Pivot Tables, charts, and slicers.
+6. **Business Insights:** Identified profitability issues and translated findings into actionable recommendations.
 
-1. How are sales distributed across different regions and countries?
-2. Which regions and product categories contribute most to overall sales and profit?
-3. Which countries are generating losses?
-4. How does profitability vary across markets?
-5. Where should the business focus its efforts to improve profitability?
+## 📈 Key Analysis & Findings
 
-## Project Workflow
+-  **29 Loss-Making Countries:** Identified 29 countries generating negative profits.
+-  **Profitability Impact:** These loss-making countries contributed to approximately **23.4% of overall business profitability erosion**.
+-  **Regional Performance:** Analyzed sales distribution and profit margins across different regions.
+-  **Product Category Analysis:** Evaluated category-level sales and profitability to identify performance differences.
+-  **Business Opportunities:** Highlighted areas where pricing strategies, operational efficiency, and market prioritization could be reviewed.
 
-1. **Data Preparation:** Imported, cleaned, and transformed the raw dataset using Power Query.
-2. **Exploratory Data Analysis:** Examined sales, profit, and profitability patterns across different business dimensions.
-3. **Performance Analysis:** Used Pivot Tables, calculated metrics, and conditional formatting to identify trends and underperforming areas.
-4. **Dashboard Development:** Created interactive dashboards to present key performance indicators and analytical findings.
-5. **Business Insights:** Interpreted the results and developed recommendations based on the identified profitability patterns.
+## 📊 Dashboard & Analysis
 
-## Key Findings
+The project includes a **four-page interactive Excel dashboard**, supported by detailed profitability analysis.
 
-- Identified **29 loss-making countries** contributing to approximately **23.4% of overall business profitability erosion**.
-- Analyzed regional sales distribution and profitability to understand differences in business performance across markets.
-- Examined product-category performance to identify areas contributing to sales and profit.
-- Highlighted underperforming markets requiring further investigation and potential corrective action.
+The dashboards provide insights into:
 
-## Business Recommendations
+- Overall sales and profit performance.
+- Regional sales distribution.
+- Profit margin comparisons.
+- Country-level profitability.
+- Loss-making markets.
+- Product category performance.
 
-Based on the analysis, the following areas were identified for management consideration:
+## 💼 Business Recommendations
 
-- **Market Prioritization:** Review the performance of loss-making countries and prioritize markets with stronger profitability potential.
-- **Pricing Strategy:** Investigate pricing and discounting practices in markets experiencing profitability challenges.
-- **Operational Efficiency:** Examine potential cost-related factors affecting profitability.
-- **Product Performance:** Evaluate product-category profitability to support better resource allocation and business decisions.
+Based on the analysis, the findings highlight several areas for management attention:
 
-## Dashboard & Analysis
+- Review pricing strategies in loss-making countries.
+- Investigate operational factors contributing to negative profitability.
+- Reassess market prioritization based on profitability rather than sales volume alone.
+- Monitor regional and product-category profit margins to identify underperforming areas.
 
-The project includes a four-page interactive Excel dashboard and a separate Profit Analysis worksheet for deeper exploration of profitability patterns.
+## 📁 Repository Structure
 
-The analysis covers:
-- Regional Sales Distribution
-- Profit Margin Analysis
-- Country-Level Profitability
-- Loss-Making Country Analysis
-- Product Category Performance
+```text
+Global-Retail-Sales-Profit-Analysis/
+│
+├── 📂 Dashboard/
+│   └── Excel_Dashboard.xlsx
+│
+├── 📂 Screenshots/
+│   └── Dashboard_Preview.png
+│
+├── 📂 Data/
+│   └── Dataset_Source.txt
+│
+└── README.md
+```
 
-## Skills Demonstrated
 
-- Data Cleaning and Transformation
+## 🎓 Skills Demonstrated
+
+- Data Cleaning & Transformation
 - Exploratory Data Analysis (EDA)
-- Advanced Excel
-- Power Query
-- Pivot Tables and Pivot Charts
-- KPI Development
 - Business Performance Analysis
-- Data Visualization
+- Sales & Profitability Analysis
+- KPI Development
+- Pivot Tables & Excel Formulas
+- Data Visualization & Dashboard Design
 - Business Insight Generation
 
-## Project Objective
+## 👤 Author
 
-The goal of this project was to go beyond reporting sales figures and understand what was driving business profitability. By examining performance at regional, country, and product-category levels, the analysis demonstrates how Excel can be used to identify business challenges and support informed decision-making.
+**Hariom Tomar**
+
+Data Analyst | SQL | Power BI | Excel | Tableau
+
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/hariom-tomar-b2021b19b/)
+
